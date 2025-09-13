@@ -64,4 +64,4 @@ def predict_revenue(data: ShopperData):
 
 @app.get("/")
 def read_root():
-    return {"status": "API is live and running!"}
+    return {"status": "API is live! Version 2.0"}
