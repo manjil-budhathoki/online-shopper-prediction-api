@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -54,7 +53,7 @@
 ## About The Project
 
 <!-- IMPORTANT: Replace this with a real screenshot link and your Render URL -->
-[![API Docs Screenshot](https://imgur.com/VAE2vrD)[product-screenshot]](https://online-shopper-predictor.onrender.com/docs)
+[![API Docs Screenshot](https://imgur.com/a/fyb9KHP)[product-screenshot]](https://online-shopper-predictor.onrender.com/docs)
 
 This project is a comprehensive demonstration of a full MLOps lifecycle, built from the ground up. It automates the entire process of taking a raw dataset, processing it through a series of orchestrated pipelines, training a machine learning model, tracking the experiment, and deploying the final model as a live, containerized REST API.
 
