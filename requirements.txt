@@ -1,0 +1,14 @@
+# High-level application dependencies
+fastapi
+uvicorn
+mlflow
+scikit-learn
+pandas
+sqlalchemy
+pymysql
+
+# Dependencies of the above packages
+# These are often needed explicitly
+joblib
+numpy
+scipy

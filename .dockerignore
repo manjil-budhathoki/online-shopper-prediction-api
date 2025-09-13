@@ -1,0 +1,19 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# Conda environments
+airflow_*/
+shopping_pipe/
+
+# Airflow and MLflow runtime data
+airflow/
+mlruns/
+mlartifacts/
+
+# VSCode
+.vscode/

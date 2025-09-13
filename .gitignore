@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda environments - VERY IMPORTANT
+airflow_*/
+shopping_pipe/
+airflow_2_2_single_folder_env/
+# Add any other conda env names you created here
+
+# Airflow runtime data - VERY IMPORTANT
+airflow/
+
+# MLflow runtime data - VERY IMPORTANT
+mlruns/
+mlartifacts/
+
+# VSCode and other editor folders
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
